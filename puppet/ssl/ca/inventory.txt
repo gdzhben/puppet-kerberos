@@ -1,0 +1,2 @@
+0x0001 2020-02-11T04:07:09UTC 2035-02-08T04:07:24UTC /CN=ec2-63-35-162-130.eu-west-1.compute.amazonaws.com
+0x0002 2020-02-11T04:24:08UTC 2025-02-10T04:24:08UTC /CN=ec2-34-253-99-219.eu-west-1.compute.amazonaws.com
